@@ -3,6 +3,10 @@
 
 Este projeto é uma API web simples construída com **Node.js**, **Express**, **MongoDB** (via Mongoose) e **EJS** como mecanismo de renderização. O sistema permite **criar**, **visualizar**, **editar** e **deletar** usuários.
 
+<img width="1552" height="583" alt="tela1" src="https://github.com/user-attachments/assets/61963919-eec5-40ba-bca4-978175a66bad" />
+<img width="1571" height="677" alt="tela2" src="https://github.com/user-attachments/assets/564c137c-abdf-4342-bdc5-6b000bf54196" />
+<img width="1572" height="847" alt="tela3" src="https://github.com/user-attachments/assets/98c8a2d8-047e-4ef0-90b4-2f05856b2e9c" />
+
 ## 🚀 Funcionalidades
 
 - Criar usuários
